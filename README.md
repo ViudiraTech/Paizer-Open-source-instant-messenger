@@ -16,30 +16,30 @@ Whether you're a developer, student, or enterprise user, Paizer can meet your co
 
 #### Prerequisites
 
-**make**: Used to build projects.
-**go**: Go version 1.22.2+ is recommended.
+**make**: Used to build projects.  
+**go**: Go version 1.22.2+ is recommended.  
 
 #### Clone the repository
 
-Open a terminal or command prompt and enter the following command:
+Open a terminal or command prompt and enter the following command:  
 `git clone https://github.com/ViudiraTech/Paizer-Open-source-instant-messenger` 
 
 #### Compile the project
 
-Just run this command:
+Just run this command:  
 `make`
 
 #### Run the server
 
-In the project root directory, find the compiled product "paizer_server.out" and run it in the terminal:
-`./paizer_server.out`
-Start the server according to the program instructions.
+In the project root directory, find the compiled product "paizer_server.out" and run it in the terminal:  
+`./paizer_server.out`  
+Start the server according to the program instructions.  
 
 #### Run the client
 
-In the project root directory, find the compiled product "paizer_client.out" and run it in the terminal:
-`./paizer_client.out`
-Follow the instructions to connect to the server.
+In the project root directory, find the compiled product "paizer_client.out" and run it in the terminal:  
+`./paizer_client.out`  
+Follow the instructions to connect to the server.  
 
 ### 🔧 How to use
 
@@ -84,5 +84,5 @@ If you have any questions or suggestions, please contact us via the following:
 
 ### 🎉 Thank you
 
-Thank you for choosing Paizer as your communication tool. We look forward to growing with you and creating a more open and friendly communication environment.
+Thank you for choosing Paizer as your communication tool. We look forward to growing with you and creating a more open and friendly communication environment.  
 Let us work together towards a better digital future!
